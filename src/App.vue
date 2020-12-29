@@ -9,6 +9,7 @@
 </template>
 
 <script>
+// Try to use descriptive names like 'OverviewScatterPlot' or 'DetailLineChart'
 import View1 from './components/View1.vue'
 import View2 from './components/View2.vue'
 import View3 from './components/View3.vue'
